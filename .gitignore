@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+.idea/
+xcshareddata/
+Pods/
+Podfile.lock
+*.xcworkspace
+Manifest.lock
+jspm_packages/
+node_modules/
